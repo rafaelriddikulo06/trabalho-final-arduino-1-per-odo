@@ -5,7 +5,7 @@ Sendo assim ele consta com um sensor de umidade do solo que fornece o controle d
 
 _Esse atual código foi feito pensando em usar um LCD 16x2 (I2C)_
 
------------------------------------------------------------───── ❝ **PORTAS USADAS** ❞ ─────--------------------------------------------------------
+───── ❝ **PORTAS USADAS** ❞ ─────
 
 LED vermelho -> 3
 LED verde -> 2
@@ -13,7 +13,10 @@ LED branco -> 4
 Módulo Sensor de Luz -> A1
 Módulo Sensor de Umidade -> A0
 
---------------------------------------------------------───── ❝ **COMPONENTES USADOS** ❞ ─────--------------------------------------------------
+
+
+
+───── ❝ **COMPONENTES USADOS** ❞ ─────
 
 1 Protoboard
 1 Arduino UNO
